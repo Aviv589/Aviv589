@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aviv
 - 👀 I’m interested in data analytics
--    I'm learning R, SQL and Spreadsheets through the Google Data Analytics Certificate
+-    I'm learning the basics of R, SQL and Spreadsheets through the Google Data Analytics Certificate
 
 
 <!---
